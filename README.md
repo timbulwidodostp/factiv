@@ -1,6 +1,8 @@
 # factiv
 Analyzing Factorial Experiments with Noncompliance Use iv_factorial and iv_finite_factorial (factiv) With (In) R Software
 
+https://www.youtube.com/watch?v=rH769EMuEkQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
